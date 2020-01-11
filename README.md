@@ -7,4 +7,4 @@ Bein Sports Kanalları, kesintisiz maç izle, spor, sinema, belgesel, ulusal kan
 
 İnat TV Normal Sürüm Burada >> https://canlimacbet.com/inat-tv.html
 
-Adult şifresi: 123
+Yetişkin şifresi: 123
