@@ -5,5 +5,8 @@
    "tokenAcceptEncoding": "gzip",
    "tokenStreams": "Streams",
    "tokenUrl": "Url",
-   "blu": "https://tvteklipic.tokensystem.space/"
+   "bluTokenUrl": "https://tvteklipic.tokensystem.space/",
+   "bluAuthorization": "Basic YWRtaW46YWJiYXN5b2xjdXgwcjE1",
+   "bluUA": "absurdSacmaSapan",
+ 
 }
