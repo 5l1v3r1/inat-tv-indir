@@ -7,6 +7,6 @@
    "tokenUrl": "Url",
    "bluTokenUrl": "https://tvteklipic.tokensystem.space/",
    "bluAuthorization": "Basic YWRtaW46YWJiYXN5b2xjdXgwcjE1",
-   "bluUA": "absurdSacmaSapan",
+   "bluUA": "absurdSacmaSapan"
  
 }
